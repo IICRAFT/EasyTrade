@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EasyTrade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EasyTrade_jar</output-path>
+    <root id="archive" name="EasyTrade.jar">
+      <element id="module-output" name="EasyTrade" />
+    </root>
+  </artifact>
+</component>
